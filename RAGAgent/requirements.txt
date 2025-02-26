@@ -1,15 +1,16 @@
-beautifulsoup4
+
 langchain
 langgraph
 langchainhub
 langchain-community
-langchain-chroma
+sentence_transformers
+langchain_pinecone
+langchain_groq
+duckduckgo-search
 python-dotenv
 black
 isort
 
-pysqlite3-binary
-
 # langchain_openai
-sentence_transformers
-tavily-python
+# tavily-python
+# beautifulsoup4
